@@ -8,7 +8,7 @@ This project uses a **Keras model** trained with Teachable Machine to classify i
 
 ![Output Screenshot](PIC1.png)
 
-![Output Screenshot]((PIC.png)
+![Output Screenshot](PIC2.png)
 
 
 ## Download
